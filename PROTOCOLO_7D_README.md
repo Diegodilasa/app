@@ -273,7 +273,7 @@ yarn start
 
 ## 🔗 Links Importantes
 
-- **eBook Hotmart**: `https://go.hotmart.com/W102844514P?dp=1`
+- **eBook Hotmart**: `[https://go.hotmart.com/W102844514P?dp=1](https://diegodilasa.github.io/liberdadedefinitiva/)`
 - **API Base**: `/api` (todas as rotas backend)
 
 ---
